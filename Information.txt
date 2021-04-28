@@ -1,2 +1,6 @@
 Created my first file
 Added text in my file
+Added more text in my file
+java
+details
+classed everyday except Fridays
