@@ -1,1 +1,2 @@
-Added my first file
+Created my first file
+Added text in my file
