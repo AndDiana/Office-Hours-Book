@@ -4,3 +4,4 @@ Added more text in my file
 java
 details
 classed everyday except Fridays
+First two months only java
